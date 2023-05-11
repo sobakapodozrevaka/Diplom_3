@@ -75,6 +75,4 @@ public class CrossToStartPageTest {
         assertTrue("Кнопка  «Оформить заказ» не отображается", startPage.isDisplayedOrderButton(driver));
 
     }
-
-
 }

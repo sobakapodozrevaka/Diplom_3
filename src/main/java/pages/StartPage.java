@@ -97,17 +97,3 @@ import java.time.Duration;
             return driver.findElement(fillingsHeading).isDisplayed();
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -58,11 +58,4 @@ public class CrossToPersonalAccountTest {
             userMethods.delete(accessToken);
         }
     }
-
-
-
-
-
-
-
 }
